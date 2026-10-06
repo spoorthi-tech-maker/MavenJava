@@ -1,3 +1,3 @@
 # MavenJava
 jenkins test
-changes made
+changes done
